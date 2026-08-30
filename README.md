@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil! 👋
 
-- ⚡ Estudante de Desenvolvimento de Sistemas
-- 💻 Focado em Python, HTML e CSS
+- 👨‍🎓 Estudante de Desenvolvimento de Sistemas
+- 💻 Focado em 🐍 Python, 🕸️ HTML e CSS
 - 🚀 Preparando-se para o mercado de tecnologia
 - 📫 Contato: rsprado00@gmail.com
 
@@ -22,7 +22,8 @@
 ✨ **Design:**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldo-silva-1544b7139)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsprado00@gmail.com)
