@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil! 👋
 
 - 👨‍🎓 Estudante de Desenvolvimento de Sistemas
-- 💻 Focado em 🐍 Python, 🕸️ HTML e CSS
+- 💻 Focado em 🐍 Python, 🕸️ HTML, CSS e 🤖 IA
 - 🚀 Preparando-se para o mercado de tecnologia
 - 📫 Contato: rsprado00@gmail.com
 
